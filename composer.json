@@ -2,6 +2,7 @@
     "name": "maksi/framework",
     "require": {
         "symfony/http-foundation": "^3.3",
-	"symfony/routing": "^3.3.10"
+	"symfony/routing": "^3.3.10",
+	"symfony/http-kernel": "^3.3.10"
     }
 }
